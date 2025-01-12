@@ -4,6 +4,7 @@ Cargo.lock
 */Cargo.lock
 
 # State file
+*/.rustlings-state.txt
 .rustlings-state.txt
 
 # oranda

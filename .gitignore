@@ -1,3 +1,23 @@
-Cargo.lock
+# Cargo
 target/
-.vscode/
+Cargo.lock
+*/Cargo.lock
+
+# State file
+.rustlings-state.txt
+
+# oranda
+public/
+.netlify
+
+# OS
+.DS_Store
+.direnv/
+
+# Editor
+*.swp
+.idea
+*.iml
+
+# Ignore file for editors like Helix
+.ignore
